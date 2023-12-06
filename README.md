@@ -11,7 +11,7 @@
 ### Contact Information
 #### Find me on 
 <a href="https://www.linkedin.com/in/andrew-brown-4113aa279" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" width="25" height="25"> LinkedIn
 </a> &nbsp; 
 
 ---
