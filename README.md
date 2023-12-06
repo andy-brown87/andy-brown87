@@ -1,6 +1,4 @@
 
-![trees](https://github.com/andy-brown87/andy-brown87/assets/140449662/b08eba47-3f5e-4754-83e5-12ef4283946f)
-
 
 # Hi there, I'm Andrew! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
