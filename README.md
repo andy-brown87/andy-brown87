@@ -49,15 +49,6 @@
 
 
 ---
-### Full Stack Projects
-####
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Dog.png" alt="Hot Dog" width="25" height="25" />[Takeaway App](https://github.com/andy-brown87/python-project) 
-<br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe Showing Americas" width="25" height="25" />
-[Emissions Calculator](https://github.com/LidzDev/Emissions-Calculator) 
-<br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Automobile.png" alt="Automobile" width="25" height="25" />
-[Smart Park](https://github.com/LidzDev/SmartPark)
 
 
