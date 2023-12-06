@@ -1,10 +1,8 @@
 
-![37a4ade821fcf1c9-sticker](https://github.com/andy-brown87/andy-brown87/assets/140449662/fc092937-79d5-448f-ad83-b90c4e174efe)
 
 ### Hi there, I'm Andrew! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
-<!--
-**andy-brown87/andy-brown87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ---
 
 #About Me
