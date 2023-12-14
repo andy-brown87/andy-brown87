@@ -1,7 +1,3 @@
-
-   
-   
-   
 <pre> 
 
    ,---.       .-._                                           ,----.           ,-.-.
@@ -30,17 +26,17 @@
 
 ---
 
-### About Me
+### About Me 👨‍💻
 #### I have just completed a 16 week bootcamp at Code Clan / Code Base. I am a career changer having worked in retail management for almost 2 decades.
 ---
-### Contact Information
+### Contact Information 📟
 #### Find me on 
 <a href="https://www.linkedin.com/in/andrew-brown-4113aa279" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" width="25" height="25"> LinkedIn
 </a> &nbsp; 
 
 ---
-### Languages
+### Languages ✍️
 ####
 
 <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="25" height="25" /> Python
@@ -50,7 +46,7 @@
 <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="25" height="25" /> Java
 
 ---
-### Technologies
+### Technologies 🛠️
 ####
 
 <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="25" height="25" /> PostgreSQL
