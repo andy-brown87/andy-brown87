@@ -29,7 +29,10 @@
 ---
 
 ### About Me 👨‍💻
-#### I have just completed a 16 week bootcamp at Code Clan / Code Base. I am a career changer having worked in retail management for almost 2 decades.
+<p>
+   I have just completed a 16 week bootcamp at Code Clan / Code Base. I am a career changer having worked in retail management for almost 2 decades.
+</p>
+
 ---
 ### Contact Information 📟
 
