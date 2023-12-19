@@ -38,9 +38,14 @@
 
 
 <p align="center" dir="auto"> 
+  <span>
    <a href="https://www.linkedin.com/in/andrew-brown-4113aa279/" rel="nofollow">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width ="150" height ="35">
    </a> 
+  <a href="https://codeclan-community.slack.com/team/U05LESH1MHS/" rel="nofollow">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" width="150" height ="35">
+  </a>
+  </span>
 </p>
 
 ---
@@ -50,14 +55,17 @@
 <p align="center" dir="auto"> 
 <span>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width ="150" height ="35"/>
-</span>
-<span>
+
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" width ="150" height ="35" />
-</span>
-<span>
+
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width ="150" height ="35"/>
+
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width ="150" height ="35" />
+
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" width ="150" height="35">
 </span>
 </p>
+
 
 ---
 ### Technologies 🛠️
@@ -82,7 +90,13 @@
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" width ="150" height ="35"/>
 
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" width ="150" height ="35"/>
-   </span>
+
+<img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" width ="150" height="35" />
+
+<img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" width ="150" height="35" />
+
+<img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" width ="150" height="35" />
+  </span>
 </p>
 
 ---
