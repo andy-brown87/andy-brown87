@@ -84,9 +84,36 @@
 
 ---
 
-### Projects 🌟
+### Projects 🚀
 
-<a href="https://www.linkedin.com/in/andrew-brown-4113aa279/" rel="nofollow">
+<a href="https://github.com/LidzDev/SmartPark" rel="nofollow" >
+Smart Park
+</a>
+
+<p>
+iOS app that shows bicycle and car parking information for Edinburgh
+An app to simplify access to Edinburgh's parking information, aiming to address the challenge of finding and accessing relevant details on the council website. The goal was to offer an intuitive solution showcasing parking spot availability, costs, and essential details, alongside highlighting bicycle parking spots to encourage sustainable commuting choices.
+</p>
+
+<a href="https://github.com/LidzDev/Emissions-Calculator" >
+Emissions Calculator
+</a>
+<p>
+A Co2 emmisions calculator that is capable of displaying the total Co2 output of a companies employee commutes.
+A web application dedicated to aiding businesses in reducing their carbon footprint. The challenge was crafting a user-friendly platform that calculates a company's carbon emissions, with a focus on employee travel. This initiative not only fosters environmental awareness among businesses but also promotes sustainable travel choices, contributing to the preservation of our planet.  
+</p>
+
+<a href="https://github.com/andy-brown87/Takeaway-App" >
+   Takeaway App
+</a>
+<p>
+An order management system for a takeaway. This takeaway can receive orders and enter them into the system for the kitchen to cook and keep track of them.
+The app is able to create a customer with a name, phone number, address, and a list of orders.
+A customer is able to place several orders. The orders contain a list of item's. The item's have a name and a price.
+</p>
+
+---
+
 
 
 
