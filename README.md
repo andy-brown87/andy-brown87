@@ -90,8 +90,10 @@
 ### Projects 🚀
 
 <a href="https://github.com/LidzDev/SmartPark" rel="nofollow" >
-Smart Park
+<img src ="https://img.shields.io/badge/🚗-Smart Park-blue" width ="150" height ="30" />
 </a>
+
+
 
 <p>
 iOS app that shows bicycle and car parking information for Edinburgh
@@ -99,7 +101,7 @@ An app to simplify access to Edinburgh's parking information, aiming to address 
 </p>
 
 <a href="https://github.com/LidzDev/Emissions-Calculator" >
-Emissions Calculator
+<img src ="https://img.shields.io/badge/♻️-Emmissions Calculator-blue" height ="30" />
 </a>
 <p>
 A Co2 emmisions calculator that is capable of displaying the total Co2 output of a companies employee commutes.
@@ -107,7 +109,7 @@ A web application dedicated to aiding businesses in reducing their carbon footpr
 </p>
 
 <a href="https://github.com/andy-brown87/Takeaway-App" >
-   Takeaway App
+   <img src ="https://img.shields.io/badge/🌭-Takeaway App-blue" height ="30" />
 </a>
 <p>
 An order management system for a takeaway. This takeaway can receive orders and enter them into the system for the kitchen to cook and keep track of them.
